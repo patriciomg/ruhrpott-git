@@ -26,6 +26,7 @@ Zum Beispiel ruft `ruhrpott förderturm` den Befehl `git log` auf.
 | tag       | denkmal         | Setz mal'n Denkmal - markier nen wichtigen Punkt in deiner Arbeit.  |
 | stash     | wegpacken       | Alles auffe Seite legen.                                            |
 
+
 ## Installation
 
 ```bash
